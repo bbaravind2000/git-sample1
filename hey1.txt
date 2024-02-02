@@ -5,3 +5,10 @@ qw
 qs
 ad
 zxc
+
+this
+ is 
+the 
+cloning
+in
+git
